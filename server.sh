@@ -14,4 +14,4 @@ then
 fi
 
 #结束
-echo "Bye"
+echo "End"
